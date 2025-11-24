@@ -1,0 +1,102 @@
+{
+  "navbar": {
+    "home": "Inicio",
+    "projects": "Proyectos",
+    "skills": "Habilidades",
+    "contact": "Contacto",
+     "education": "Educación",
+    "experience": "Experiencia"
+  },
+  "hero": {
+  "greeting": "Hola, soy",
+  "profession": "Desarrolladora Software.",
+  "description": "Desarrolladora Frontend con experiencia en React y Angular, enfocada en crear interfaces modernas, funcionales y responsivas. Me gusta convertir diseños de Figma en código limpio, optimizar aplicaciones web e integrar APIs REST trabajando con metodologías ágiles.",
+  "viewProjects": "Ver Proyectos",
+  "contact": "Contactar"
+},
+  "contact": {
+    "title": "Contáctame",
+    "subtitle": "Será un gusto colaborar contigo.",
+    "name": "Nombre",
+    "email": "Correo",
+    "message": "Mensaje",
+    "send": "Enviar mensaje",
+    "placeholderMessage": "Escribe tu mensaje...",
+    "placeholderName": "Tu nombre",
+    "placeholderEmail": "Tu correo",
+    "success": "Mensaje enviado con éxito",
+    "error": "Error al enviar el mensaje"
+  },
+  "projects": {
+  "title": "Proyectos Destacados",
+  "subtitle": "Algunos de mis trabajos recientes",
+  "tech": "Tecnologías",
+  "code": "Código",
+  "demo": "Demo"
+},
+"skills": {
+  "title": "Habilidades Técnicas",
+  "subtitle": "Tecnologías con las que trabajo",
+  "frontend": "Frontend",
+  "backend": "Backend",
+  "mobile": "Mobile",
+  "design": "Diseño",
+  "databases": "Bases de Datos",
+  "metodologias": "Metodologías"
+},
+"footer": {
+  "copyright": "© 2025 Elizeth Rojas. Hecho con React + TypeScript + Tailwind CSS"
+},
+"education": {
+  "title": "Educación",
+  "subtitle": "Formación académica y certificaciones",
+  "academicTitle": "Formación Académica",
+  "certificationsTitle": "Certificaciones",
+  "continuousLearningTitle": "Aprendizaje Continuo",
+  "continuousLearningText": "Constantemente actualizando mis conocimientos a través de cursos online, documentación oficial y práctica en proyectos personales.",
+  "studies": [
+    {
+      "degree": "Desarrollo de Sistemas de Información",
+      "institution": "IDAT",
+      "period": "2022 - 2024",
+      "status": "Graduada",
+      "achievements": [
+        "Promedio: 18.24/20",
+        "Proyecto de tesis en desarrollo de aplicaciones web",
+        "Participación en proyectos grupales"
+      ]
+    },
+    {
+      "degree": "Administración de Empresas",
+      "institution": "Universidad Señor de Sipán",
+      "period": "2012 - 2018",
+      "status": "Bachiller",
+      "achievements": [
+        "Certificación Merchandising",
+        "Certificación Neuromarketing",
+        "Tesis: Habilidades Gerenciales en Directivos de Agropucalá"
+      ]
+    }
+  ],
+  "certifications": [
+    { "name": "React Professional", "issuer": "Udemy ", "year": "2025" },
+    { "name": "Java Spring Boot", "issuer": "Coursera", "year": "2024" },
+    { "name": "Scrum Foundation", "issuer": "Scrum.org", "year": "2023" }
+  ]
+},
+"experience": {
+  "title": "Experiencia Laboral",
+  "subtitle": "Mi trayectoria profesional",
+  "jobs": [
+    {
+      "role": "Desarrolladora Frontend - UX/UI - QA",
+      "company": "Agile Solutions",
+      "period": "2024 - 2025",
+      "description": "Responsable del desarrollo frontend y la integración de endpoints utilizando React y TypeScript. Realicé el prototipado de interfaces en Figma, pruebas de APIs con Postman, así como pruebas funcionales, de usabilidad y smoke tests para garantizar la calidad del producto.",
+      "technologies": ["React", "TypeScript", "Figma", "Js","Potsman" ,"Scrum","GitHub","Trello"]
+    }
+  ]
+}
+
+
+}
